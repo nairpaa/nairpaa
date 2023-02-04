@@ -4,6 +4,7 @@ I'm a Penetration Testing working in Jakarta, Indonesia.
 ## Badges/Certifications
 [<img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" width=110>](https://www.credential.net/bc943e77-c6b0-49a3-857a-230aafdb6726)
 [<img src="https://academy.hackthebox.com/storage/paths/18/logo.png" width=200>](https://academy.hackthebox.com/achievement/202827/path/18)
+[<img src="https://assets.pentesterlab.com/badges/unix.png" width=125>](https://ptl-certs.s3.amazonaws.com/PTLU11098.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI5SYYGSB2WKF7OAA%2F20230204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230204T144008Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8f1deb323928685eee1187cfabe23980354a641a12f3d7b79d56b1bcf615b4bc)
 [<img src="https://assets.pentesterlab.com/badges/introduction.png" width=125>](https://ptl-certs.s3.amazonaws.com/PTLN21704.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI5SYYGSB2WKF7OAA%2F20230126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230126T030909Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b577ae8a51502cb91171210bf4b47bb94d7640025e975436bfff414c31d8ed0e)
 
 ## Social
