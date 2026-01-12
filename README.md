@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a Penetration Testing working in Jakarta, Indonesia.
+I'm a Penetration Testing working in Bandung, Indonesia.
 
 ## Badges/Certifications
 [<img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" width=110>](https://www.credential.net/bc943e77-c6b0-49a3-857a-230aafdb6726)
