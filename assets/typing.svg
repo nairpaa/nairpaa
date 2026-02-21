@@ -16,12 +16,12 @@
       @keyframes clip1 { 0%{width:0} 6%{width:187px} 19%{width:187px} 25%{width:0} 25.01%,100%{width:0} }
       @keyframes clip2 { 0%,25%{width:0} 31%{width:176px} 44%{width:176px} 50%{width:0} 50.01%,100%{width:0} }
       @keyframes clip3 { 0%,50%{width:0} 56%{width:110px} 69%{width:110px} 75%{width:0} 75.01%,100%{width:0} }
-      @keyframes clip4 { 0%,75%{width:0} 81%{width:198px} 94%{width:198px} 100%{width:0} }
+      @keyframes clip4 { 0%,75%{width:0} 81%{width:209px} 94%{width:209px} 100%{width:0} }
 
       #c1r { animation: clip1 16s steps(17) infinite; }
       #c2r { animation: clip2 16s steps(16) infinite; }
       #c3r { animation: clip3 16s steps(10) infinite; }
-      #c4r { animation: clip4 16s steps(18) infinite; }
+      #c4r { animation: clip4 16s steps(19) infinite; }
 
       @keyframes cur {
         0%{transform:translateX(0)} 6%{transform:translateX(187px)} 19%{transform:translateX(187px)} 25%{transform:translateX(0)}
@@ -42,6 +42,6 @@
   <text class="role" x="66" y="24" clip-path="url(#c1)">Software Engineer</text>
   <text class="role" x="66" y="24" clip-path="url(#c2)">Reverse Engineer</text>
   <text class="role" x="66" y="24" clip-path="url(#c3)">Red Teamer</text>
-  <text class="role" x="66" y="24" clip-path="url(#c4)">Penetration Tester</text>
+  <text class="role" x="66" y="24" clip-path="url(#c4)">Security Consultant</text>
   <text class="cursor" x="66" y="24">|</text>
 </svg>
