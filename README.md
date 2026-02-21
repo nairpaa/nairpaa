@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff4757&height=120&section=header" />
 
-## ~/Nairpaa
+# ~/Nairpaa
 
 <img src="./assets/typing.svg" alt="roles" />
 
