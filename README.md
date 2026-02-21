@@ -1,44 +1,51 @@
-# Hi there 👋
-I'm a Penetration Testing working in Bandung, Indonesia.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff4757&height=180&section=header" />
 
-## Badges/Certifications
-[<img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" width=110>](https://www.credential.net/bc943e77-c6b0-49a3-857a-230aafdb6726)
-[<img src="https://api.eu.badgr.io/public/assertions/J-4Lz_iJQxeI6WAC-mZxrQ/image" width=110>](https://eu.badgr.com/public/assertions/J-4Lz_iJQxeI6WAC-mZxrQ)
-[<img src="https://app.hackthebox.com/images/icons/ic-prolabs/ic-dante-certs.svg" width=150>](https://drive.google.com/drive/folders/1nxuEeqOVoKCwLGd4P3GtoNB5LypbEL6M)
-[<img src="https://academy.hackthebox.com/storage/badges/master-of-the-registers.png" width=115>](https://academy.hackthebox.com/achievement/202827/path/18)
-[<img src="https://assets.pentesterlab.com/badges/unix.png" width=125>](https://ptl-certs.s3.amazonaws.com/PTLU11098.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI5SYYGSB2WKF7OAA%2F20230204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230204T144008Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8f1deb323928685eee1187cfabe23980354a641a12f3d7b79d56b1bcf615b4bc)
-[<img src="https://assets.pentesterlab.com/badges/introduction.png" width=125>](https://ptl-certs.s3.amazonaws.com/PTLN21704.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI5SYYGSB2WKF7OAA%2F20230126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230126T030909Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b577ae8a51502cb91171210bf4b47bb94d7640025e975436bfff414c31d8ed0e)
+## Hi, I'm Nairpaa
 
-## Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nairpaa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nairpaa) 
+<img src="./assets/typing.svg" alt="roles" />
 
-## Focus & Interesting
-| No | Focus                           | Interesting         |
-|----|---------------------------------|---------------------|
-| 1  | Web/API Pentesting              | Red Teaming         |
-| 2  | Mobile Pentesting (Android/IOS) | Hardware Pentesting |
-| 3  | Vulnerability Assessment        | Cloud Pentesting    |
-| 4  | Exploit Development             | Lock Picking        |
-| 5  | Phishing                        | Social Engineering  |
-| 6  | Wifi Pentesting                 | CTF                 |
+```ansi
+[1;32mroot@nairpaa:~#[0m id
+[90muid=[0m[1;31m0[0m(nairpaa) [90mgid=[0m[1;31m1337[0m(security) [90mgroups=[0m1337(security),0(offsec),1(redteam)
 
-## Focus Technology Stack
-| No | Scripting                                                                                                           | Have Also Learned                                                                                      | Cloud Services                                                                                                          |
-|----|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| 1  | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)   | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)                   | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)   |
-| 2  | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)                             | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)         | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) |
-| 3  | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)                       | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)        | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)                 |
-| 4  | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)                          | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)          | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)                       |
-| 5  | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)                      | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)                |
-| 6  | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | -                                                                                                      | -                                                                                                                       |
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nairpaa&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nairpaa&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nairpaa&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=nairpaa&icon=0&color=12)](https://visitcount.itsvg.in)
+[1;32mroot@nairpaa:~#[0m cat /etc/profile
+[31m╔══════════════════════════════════════════════════════╗[0m
+[31m║[0m                                                      [31m║[0m
+[31m║[0m   [1;37mSoftware Engineer[0m  |  [1;37mReverse Engineer[0m             [31m║[0m
+[31m║[0m   [1;37mRed Teamer[0m         |  [1;37mPenetration Tester[0m           [31m║[0m
+[31m║[0m                                                      [31m║[0m
+[31m║[0m   [36mLocation[0m : Bandung, Indonesia                      [31m║[0m
+[31m║[0m   [36mWebsite[0m  : https://nairpaa.me                      [31m║[0m
+[31m║[0m                                                      [31m║[0m
+[31m╚══════════════════════════════════════════════════════╝[0m
 
-## Support Me
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nairpaa) 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[1;32mroot@nairpaa:~#[0m cat /etc/certifications
+[1;32m[+][0m [1;37mOSCP[0m  [90m— Offensive Security Certified Professional[0m
+[1;32m[+][0m [1;37mCRTO[0m  [90m— Certified Red Team Operator[0m
+
+[1;32mroot@nairpaa:~#[0m systemctl status nairpaa.service
+[32m●[0m [1;37mnairpaa.service[0m [90m- Nairpaa Security Services[0m
+     [90mLoaded:[0m loaded (/etc/systemd/system/nairpaa.service; [32menabled[0m)
+     [90mActive:[0m [1;32mactive (running)[0m
+     [90mStatus:[0m [33m"Available for consulting & collaboration"[0m
+
+[1;32mroot@nairpaa:~#[0m █
+```
+
+<div align="center">
+
+<a href="https://www.credential.net/bc943e77-c6b0-49a3-857a-230aafdb6726"><img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" width="120" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://eu.badgr.com/public/assertions/J-4Lz_iJQxeI6WAC-mZxrQ"><img src="https://api.eu.badgr.io/public/assertions/J-4Lz_iJQxeI6WAC-mZxrQ/image" width="120" /></a>
+
+<br><br>
+
+[![Website](https://img.shields.io/badge/nairpaa.me-ff4757?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nairpaa.me)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nairpaa)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nairpaa)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4757,100:0a0a0a&height=120&section=footer" />
